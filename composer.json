@@ -1,0 +1,12 @@
+{
+    "name": "morganhvidt/mozart-test",
+    "description": "Just testing",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "morgan",
+            "email": ""
+        }
+    ]
+}
